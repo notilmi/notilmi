@@ -29,8 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notilmi&" alt="notilmi" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notilmi&show_icons=true&locale=en&layout=compact" alt="notilmi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notilmi&show_icons=true&locale=en" alt="notilmi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notilmi&" alt="notilmi" /></p>
