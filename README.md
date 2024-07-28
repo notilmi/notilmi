@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Achmad Ilmi Al Akbar</h1>
-<h3 align="center">A passionate Backend Developer & Cloud Engineer from Indonesia 🇮🇩</h3>
+<h3 align="center">A passionate Software Engineer + Solopreneur from Indonesia 🇮🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notilmi&label=Profile%20views&color=0e75b6&style=flat" alt="notilmi" /> </p>
 
-- 🔭 I’m currently working on **CetakinAja**
+- 🔭 I’m currently working on **DocHarvest**
 
 - 🌱 I’m currently learning **DevOps, Microservices, & Generative AI**
-
-- 👥 I'm Part Of **PC IPM Ilir Timur I Kota Palembang**
 
 - 🏫 Currently Learning In **SMK Muhammadiyah 1 Palembang**
 
 - 💬 Ask me about **AWS, Azure, Node.js, And Databases!**
-
-- ⚡ Fun fact **Im Also A Lead Guitarist For An Indie Thrash Metal Band😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
