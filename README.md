@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps, Microservices, & Generative AI**
 
-- 🏫 Currently Learning In **SMK Muhammadiyah 1 Palembang**
+- 🏫 Currently Learning In **Sriwijaya State Polytechnic (Politeknik Negeri Sriwijaya)**
 
 - 💬 Ask me about **AWS, Azure, Node.js, And Databases!**
 
