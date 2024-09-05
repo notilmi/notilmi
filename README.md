@@ -19,8 +19,24 @@
 
 </div>
 
-- 🔭 I’m currently working on **Arunika AI**
+<br />
 
-- 🌱 I’m currently learning **Artificial General Intelligence (AGI), Generative AI, Edge, Serverless**
+## About Me 👤
 
-- 🏫 Currently Learning In **Sriwijaya State Polytechnic (Politeknik Negeri Sriwijaya)**
+🔭 I’m currently working on **Arunika AI**
+🌱 I’m currently learning **Artificial General Intelligence (AGI), Generative AI, Edge, Serverless**
+🏫 Currently Learning In **Sriwijaya State Polytechnic (Politeknik Negeri Sriwijaya)**
+
+## Check Out My Latest Product ✨
+
+- Evotingku: [evotingku.me](https://evotingku.me)
+- QuoteCapsule: [quotecapsule.vercel.app](https://quotecapsule.vercel.app)
+- ShyNoMore: Launching Soon!
+
+## Connect With Me 🔗
+
+- Web: [ilmi.evotingku.me](https://ilmi.evotingku.me)
+- Email: [dznilmi@gmail.com](mailto:dznilmi@gmail.com)
+- X: [@ilmi_dev](https://x.com/ilmi_dev)
+- Instagram: [@iilmii.\_](https://www.instagram.com/iilmii._/)
+- LinkedIn: [achmadilmi](https://www.linkedin.com/in/achmad-ilmi-al-akbar-89972b2a1/)
