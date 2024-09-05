@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Achmad Ilmi Al Akbar</h1>
-<h3>A passionate Software Engineer + Solopreneur from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Achmad Ilmi Al Akbar</h1>
+<h3 align="center">A passionate Software Engineer + Solopreneur from Indonesia</h3>
 <br />
 <div align="center">
         <div align="center">
@@ -18,7 +18,8 @@
         </div>
 
 </div>
-- 🔭 I’m currently working on **InsideTech**
+
+- 🔭 I’m currently working on **Arunika AI**
 
 - 🌱 I’m currently learning **Artificial General Intelligence (AGI), Generative AI, Edge, Serverless**
 
