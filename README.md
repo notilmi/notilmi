@@ -23,7 +23,7 @@
 ## About Me 👤
 
 🔭 I’m currently working on **Arunika AI**
-🌱 I’m currently learning **Artificial General Intelligence (AGI), Generative AI, Edge, Serverless**
+🌱 I’m currently learning **Generative AI, Cloud Computing**
 🏫 Currently Learning In **Sriwijaya State Polytechnic (Politeknik Negeri Sriwijaya)**
 
 ## Check Out My Latest Product ✨
