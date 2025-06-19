@@ -1,4 +1,4 @@
-<h1 align="center">Achmad Ilmi / Terry</h1>
+<h1 align="center">Achmad Ilmi / Terence</h1>
 <h3 align="center">Software Engineer + Indie Hacker</h3>
 
 <br />
