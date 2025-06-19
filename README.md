@@ -3,7 +3,10 @@
 
 <br />
 
-I made money by coding, and you're not.
+<pre>What's the worst that I can say?
+Things are better if I stay
+So long and goodnight
+...</pre>
 
 <br />
 
