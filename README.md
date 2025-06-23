@@ -3,7 +3,11 @@
 
 <br />
 
-![huh](https://i.pinimg.com/originals/96/4e/1c/964e1ccc8d2331d6c1a025c36d2e5c09.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 <pre>What's the worst that I can say?
 Things are better if I stay
