@@ -1,4 +1,4 @@
-<h1 align="center">Achmad Ilmi / Terence</h1>
+<h1 align="center">Ilmi / Terence</h1>
 <h3 align="center">Software Engineer + Indie Hacker</h3>
 
 <br />
@@ -18,7 +18,7 @@ So long and goodnight
 
 ## Connect With Me 🔗
 
-- Web: [ilmi.evotingku.me](https://ilmi.evotingku.me)
+- Web: [akuilmi.site](https://akuilmi.site)
 - Email: [dznilmi@gmail.com](mailto:dznilmi@gmail.com)
 - X: [@ilmi_dev](https://x.com/ilmi_dev)
 - Instagram: [@iilmii.\_](https://www.instagram.com/iilmii._/)
