@@ -9,9 +9,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<pre>What's the worst that I can say?
-Things are better if I stay
-So long and goodnight
+<pre>Even though I'm on my own, I know I'm not alone
+'Cause I know there's someone, somewhere, praying that I make it home
+So here's one from the heart, my life right from the start
+I need a home, sweet home, to call my own
 ...</pre>
 
 <br />
